@@ -1,2 +1,2 @@
-esta es una nueva linea
+esta es una nueva linea, agregue nuevo texto
 Lorem Ipsum is simply dummy text of the printing and typesetting

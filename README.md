@@ -5,19 +5,15 @@ un blog increíble para el curso de Git y Github de Platzi
  
 git remote add origin URL
 
-# Segundo: Verificar que la URL se haya guardado
-# correctamente:
+### Segundo: Verificar que la URL se haya guardado correctamente:
 git remote
 git remote -v
 
-# Tercero: Traer la versión del repositorio remoto y
-# hacer merge para crear un commit con los archivos
-# de ambas partes. Podemos usar git fetch y git merge
-# o solo el git pull con el flag --allow-unrelated-histories:
+# Tercero: Traer la versión del repositorio remoto y hacer merge para crear un commit con los archivos de ambas partes. Podemos usar git fetch y git merge o solo el git pull con el flag --allow-unrelated-histories:
+
 git pull origin master --allow-unrelated-histories
 
-# Por último, ahora sí podemos hacer git push para guardar
-# los cambios de nuestro repositorio local en GitHub:
-git push origin master
+### Por último, ahora sí podemos hacer git push para guardar los cambios de nuestro repositorio local en GitHub:
 
-# git push origin master:main - por el cambio de nombre de la rama principal de master a main
+git push origin master
+git push origin master:main - por el cambio de nombre de la rama principal de master a main

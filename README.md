@@ -1,5 +1,5 @@
 # hyperblog
-un blog increíble para el curso de Git y Github de Platzi
+un blog increíble para el curso de Git y Github de Platzi- cambio
 
 ### Primero: Guardar la URL del repositorio de GitHub con el nombre de origin
  

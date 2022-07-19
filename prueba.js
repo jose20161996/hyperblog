@@ -12,3 +12,12 @@ function agregar_string(cadena){
     var x =""
     return x.cadena;
 }
+
+function restar(a,c){
+return a-b;
+}
+
+function concatenar_string(string){
+    string.=string
+    return string;
+}
